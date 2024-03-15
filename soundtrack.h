@@ -6,7 +6,7 @@ char song1[] = "LLDDRURUDDLRDUR";
 int song1Len = (*(&song1 + 1) - song1) - 1;
 
 
-char song2Name[] = "Big Penis Dildo";
+char song2Name[] = "Big fricken dude";
 char song2[] = "DUDURRRDDUDURRR";
 int song2Len = (*(&song2 + 1) - song2) - 1;
 
